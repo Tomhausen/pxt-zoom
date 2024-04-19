@@ -32,7 +32,7 @@ enum Mode {
     //% block="Bottom-Right"
     BottomRight
 }
-//% color="#3fcbf4"
+//% color="#3fcbf4" icon="\uf002"
 //% groups='["Normal", "Experimental"]'
 namespace Zoom {
     //% block="set screen zoom to $size times with anchor $anchor || over $ms ms"

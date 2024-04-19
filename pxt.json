@@ -7,7 +7,9 @@
     },
     "files": [
         "README.md",
-        "zoom.ts"
+        "zoom.ts",
+        "main.py",
+        "main.ts"
     ],
     "testFiles": [],
     "targetVersions": {
