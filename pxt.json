@@ -6,11 +6,7 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "zoom.ts",
         "README.md",
-        "assets.json",
         "zoom.ts"
     ],
     "testFiles": [],
